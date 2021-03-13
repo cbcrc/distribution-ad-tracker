@@ -1,0 +1,1 @@
+aws s3 sync ./dist s3://distribution-adops --acl public-read --cache-control max-age=2592000
