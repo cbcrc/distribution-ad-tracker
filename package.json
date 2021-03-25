@@ -1,5 +1,5 @@
 {
-  "name": "murdock",
+  "name": "@cbcrc/murdock",
   "version": "0.0.2",
   "description": "Track events - custom user actions, clicks, pageviews, purchases.",
   "main": "dist/lib.js",
@@ -54,5 +54,9 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0",
     "xhr-mock": "^2.3.2"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "git@github.com:cbcrc/distribution-ad-tracker.git"
 }
