@@ -1,6 +1,6 @@
 {
   "name": "@cbcrc/murdock",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Track events - custom user actions, clicks, pageviews, purchases.",
   "main": "dist/lib.js",
   "scripts": {
